@@ -1,6 +1,6 @@
 # 🚀 GenZ Navigator
 
-GenZ Navigator is a lightweight web-based slang dictionary designed to help users quickly understand trending Gen Z and internet slang. Simply search for a term and instantly view its meaning, full form (if available), and example usage.
+GenZ Navigator is a lightweight web-based slang dictionary designed to help users quickly understand trending Gen Z and internet slang. Simply search for a term and instantly view its meaning, full form, and example usage.
 
 ## 📌 Overview
 
@@ -13,7 +13,7 @@ GenZ Navigator provides a clean and simple interface to decode these terms effic
 * 📖 Meaning and example display
 * 🧾 Optional full-form expansion
 * ⚡ Fast and responsive interface
-* 💻 Pure frontend implementation (No backend required)
+* 💻 Pure frontend implementation 
 
 ## 🛠️ Tech Stack
 
@@ -39,7 +39,7 @@ GenZ-Navigator/
 1. Clone the repository:
 
    ```
-   git clone https://github.com/your-username/genz-navigator.git
+   git clone https://github.com/MEGHANA0908/GenZ-Navigator.git
    ```
 
 2. Open the project folder.
